@@ -1,2 +1,1 @@
-# preCourse-henryy
-prueba de repositorio modulo 2
+este es procedimiento de hacer un repositorio y clonarlo 
